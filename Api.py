@@ -316,7 +316,7 @@ st.sidebar.info(
 
 
 #------------------------------------------------------------------------------------------------
-# ENCABEZADO PRINCIPAL
+# ENCABEZADO PRINCIPAL - AGREGADO EINER SOTOMAYOR HUAMAN
 #------------------------------------------------------------------------------------------------
 
 st.markdown(
@@ -335,7 +335,8 @@ st.markdown(
 Orlando Advíncula Zeballos</p>
 
 <p><b>Elaborado por:</b><br>
-Bach. Yubber Franklin Soria Ccarhuas</p>
+Bach. Yubber Franklin Soria Ccarhuas<br>
+Einer Sotomayor Huaman</p>
 
 </div>
 """,
